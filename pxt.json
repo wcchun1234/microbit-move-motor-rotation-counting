@@ -1,0 +1,11 @@
+{
+    "name": "microbit-move-motor-rotation-counting",
+    "description": "A MakeCode extension to simplify motor rotation counting for students",
+    "files": [
+        "main.ts"
+    ],
+    "dependencies": {
+        "core": "*",
+        "kitronik-move-motor": "*"  // Adds dependency for the Kitronik :MOVE Motor extension
+    }
+}
