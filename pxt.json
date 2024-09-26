@@ -6,6 +6,10 @@
     ],
     "dependencies": {
         "core": "*",
-        "kitronik-move-motor": "*"  // Adds dependency for the Kitronik :MOVE Motor extension
-    }
+        "kitronik-move-motor": "*" 
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "ts"
 }
